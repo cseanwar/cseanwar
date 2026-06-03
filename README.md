@@ -38,4 +38,15 @@ I am a passionate Junior Full-Stack Web Developer with experience building moder
 <a href="https://my-portfolio-ecru-two-19.vercel.app/">Portfolio</a>
 </p>
 
+---
+
+## GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME)
+
+
 
