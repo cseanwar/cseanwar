@@ -42,11 +42,11 @@ I am a passionate Junior Full-Stack Web Developer with experience building moder
 
 ## GitHub Statistics
 
-<p align="center">
+<p align="left">
   <img src="https://streak-stats.demolab.com?user=cseanwar" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=cseanwar&label=Profile%20Views" />
 </p>
 
