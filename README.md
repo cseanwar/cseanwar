@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi 👋, I'm Anwar Hossain
 
-<!--
-**cseanwar/cseanwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Junior Full-Stack Web Developer
 
-Here are some ideas to get you started:
+<img src="YOUR_BANNER_IMAGE_URL" alt="banner" width="100%">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 Stockholm, Sweden
+📧 [cseanwar@gmail.com](mailto:cseanwar@gmail.com)
+
+---
+
+## About Me
+
+I am a passionate Junior Full-Stack Web Developer with experience building modern, responsive web applications using React, Next.js, Node.js, Express.js, and MongoDB. I enjoy solving real-world problems through technology and continuously improving my development skills.
+
+### Current Activities
+
+* 🌱 Exploring Next.js and advanced React concepts
+* 🔭 Building full-stack MERN applications
+* 💻 Improving backend development skills
+* 🚀 Learning software architecture and best practices
+
+---
+
+## Skills
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,tailwind,git,github,vscode" />
+</p>
+
+---
+
+## Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/anwar-hossain-a3095147/">LinkedIn</a> •
+<a href="https://www.facebook.com/anwar.hossain.969">Facebook</a> •
+<a href="https://my-portfolio-ecru-two-19.vercel.app/">Portfolio</a>
+</p>
+
+
