@@ -42,21 +42,9 @@ I am a passionate Junior Full-Stack Web Developer with experience building moder
 
 ## GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cseanwar&show_icons=true&theme=transparent" alt="GitHub Stats" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=cseanwar)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cseanwar&layout=compact&theme=transparent" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=cseanwar&theme=transparent" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=cseanwar&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+![](https://komarev.com/ghpvc/?username=cseanwar&label=Profile%20Views)
 
 
 
