@@ -2,7 +2,7 @@
 
 ### Junior Full-Stack Web Developer
 
-<img src="YOUR_BANNER_IMAGE_URL" alt="banner" width="100%">
+<img src="https://i.ibb.co/MyswWYmd/Github-Banner.png" alt="banner" width="100%">
 
 📍 Stockholm, Sweden
 📧 [cseanwar@gmail.com](mailto:cseanwar@gmail.com)
